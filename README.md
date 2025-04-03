@@ -26,7 +26,7 @@ Instalación
 
 Clona este repositorio:
 
-git clone https://github.com/tu-usuario/proyecto-reservas.git
+git clone [https://github.com/tu-usuario/proyecto-reservas.git](https://github.com/Meperd0wnas/ParcialTercio2Front)
 
 Accede al directorio del proyecto:
 
